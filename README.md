@@ -2,4 +2,5 @@ Hi, I'm not quite sure what to put here, but Designer's Dream was an app I cooke
 of 2 colors quickly, and then copy those 2 color codes into a file. :)
 
 
-[![GitHub release](https://github.com/PandaDev466/Designers-Dream/releases/tag/alpha)
+![GitHub release](https://github.com/PandaDev466/Designers-Dream/releases/tag/alpha)
+
