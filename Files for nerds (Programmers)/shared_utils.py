@@ -12,3 +12,4 @@ def make_rgb_entry(parent, label_text):
     entry = tk.Entry(frame, width=5)
     entry.pack(side="right")
     return frame, entry
+#accidentally messed up commit msg

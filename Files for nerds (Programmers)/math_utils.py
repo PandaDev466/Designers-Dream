@@ -74,3 +74,4 @@ def calculate_contrast_ratio(fg_rgb, bg_rgb):
     lighter = max(fg_l, bg_l)
     darker = min(fg_l, bg_l)
     return (lighter + 0.05) / (darker + 0.05)
+#accidentally messed up commit msg

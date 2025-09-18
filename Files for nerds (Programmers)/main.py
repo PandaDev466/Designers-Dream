@@ -124,3 +124,4 @@ maut.result_label = result_label
 
 check_contrast()
 root.mainloop()
+#accidentally messed up commit msg

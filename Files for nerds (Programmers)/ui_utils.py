@@ -33,3 +33,4 @@ def wcag_badges(ratio):
         f"AAA (Normal 7:1):  {'✅' if ratio >= 7 else '❌'}",
         f"AAA (Large 4.5:1): {'✅' if ratio >= 4.5 else '❌'}",
     ])
+#accidentally messed up commit msg
