@@ -5,7 +5,7 @@ import math_utils as maut
 import ui_utils as uiu
 import shared_utils as su
 
-VER = "1.0.1"
+VER = "1.2"
 DIMENSIONS = "800x600"
 
 root = tk.Tk()
